@@ -13,8 +13,8 @@
 <img src="/image/후면부 사진.jpg" width="70%" height="70%" alt="후면부 사진"/>
 후면부 사진    
 <img src="/image/어플카메라.jpg" width="50%" height="50%" alt="어플카메라"/>
-어플카메라   
-<br>
+어플카메라
+
 <img src="/image/웹페이지사진.png" width="70%" height="70%" alt="웹페이지사진"/>
 웹페이지사진   
 <img src="/image/웹페이지_도어락기록확인.png" width="70%" height="70%" alt="웹페이지_도어락기록확인"/>
