@@ -1,5 +1,6 @@
 # SafeDoor
-<center><img src="/image/메인화면.png" width="50%" height="50%" alt="메인화면"/></center>    
+<p align="center"><img src="/image/메인화면.png" width="50%" height="50%" alt="메인화면"/></p>    
+
 ## 사용기술
 1. Node.js   
 2. HTML   
