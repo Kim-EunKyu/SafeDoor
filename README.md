@@ -1,11 +1,15 @@
 # SafeDoor
+<cneter><img src="/image/메인화면.png" width="50%" height="50%" alt="메인화면"/></center>    
 ## 사용기술
-1.Node.js   
-2.HTML   
-3.Mysql   
+1. Node.js   
+2. HTML   
+3. Mysql   
 ***
 ## 개발기간
 2019. ~ 2019
+***
+## 개발과정
+
 ***
 ## 캡처화면
 
