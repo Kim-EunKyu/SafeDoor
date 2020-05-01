@@ -22,13 +22,22 @@
 <img src="/image/서비스전체적인 구조.png" width="70%" height="70%" alt="서비스전체적인 구조"/>   
 
 #### 3.2.2 상세 기능 설명
-1. 도어락 원격 제어
+1. 도어락 원격 제어    
+웹서버에 연결이 되어있어 도어락 원격 제어가 가능하다. 어플이나 웹페이지에 들어가서 로그인 후에 화면을 보면 open/close버튼이 있다. 버튼을 클릭하면 도어락이 열리고 닫히는 것을 볼 수 있다.   
+<div align="center">
+<img width="20%" style="margin-right: 5rem" src="/image/어플암호입력화면.jpg"/>
+<img width="20%" style="margin-right: 5rem" src="/image/어플지문인식화면.jpg"/>
+<img width="20%" style="margin-right: 1rem" src="/image/어플메인화면.jpg"/>
+</div><br>
+<div align="center">
+<img width="50%" src="/image/웹페이지사진.png"/>
+</div><br>
 
-2. 방문자 실시간 확인
+2. 방문자 실시간 확인   
 
-3. 웹페이지 실시간 확인
+3. 웹페이지 실시간 확인   
 
-4. 초인종을 눌렀을 때 어플로 푸시알람 보내기
+4. 초인종을 눌렀을 때 어플로 푸시알람 보내기   
 
 ***    
 ## 4. 캡처화면
