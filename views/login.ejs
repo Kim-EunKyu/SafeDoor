@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel='stylesheet' href='/stylesheets/login.css' />
+  </head>
+  <body>
+	<div id = "login">
+		<div id = "login-html">
+			<div id = "login-form">
+				<form method="post" action = "./login">
+					<label for = "user_id" class = "login-label">USER ID</label>
+					<input name = "user_id" type = "text" class = "login-input">
+					<label for="user_pwd" class="login-label">PASSWORD</label>
+					<input name="user_pwd" type="password" data-type="password" class = "login-input">
+					<input type="submit" class = "button login-input" value="로그인">
+				</form>
+				<hr>
+				<div id = "find-info">
+					<a href = "#" id = "find-info">비밀번호 찾기</a>
+				</div>
+			</div>
+		</div>
+	</div>
+  </body>
+</html>

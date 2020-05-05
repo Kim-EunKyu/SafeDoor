@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>Safe Door Lock</title>
+	<link rel='stylesheet' href='/stylesheets/mainPage.css'/>
+	<script src = "https://code.jquery.com/jquery-3.1.1.min.js"></script>
+	<script src = "/socket.io/socket.io.js"></script>
+	<script src = "javascripts/door.js"></script>
+  </head>
+  <body>
+	<div class="page-wrapper chiller-theme toggled">
+		<nav id="sidebar" class="sidebar-wrapper">
+			<div class="sidebar-content">
+				<div class="sidebar-brand">
+					<a href="#">Safe Door Open</a>
+      			</div>
+				<div class="sidebar-header">
+        			<div class="user-pic">
+          				<img class="img-responsive img-rounded" src="https://raw.githubusercontent.com/azouaoui-med/pro-sidebar-template/gh-pages/src/img/user.jpg"
+            alt="User picture">
+        			</div>
+					<div class = "user-pwd" style="display:none"><%= user_pwd %></div>
+        			<div class="user-info">
+          				<span class="user-name">
+								<strong><%= user_id %></strong>
+          				</span>
+          				<span class="user-role">Administrator</span>
+          					<span class="user-status">
+            				<i class="fa fa-circle"></i>
+            				<span>Online</span>
+          				</span>
+        			</div>
+      			</div>
+	
+      			<div class="sidebar-menu">
+        			<ul>
+          				<li class="header-menu"><span>일반</span></li>
+          				<li class="sidebar-dropdown">
+            				<a href="#"><span>도어락 제어</span></a>
+          				</li>
+          				<li class="sidebar-dropdown">
+							<a href="./logout"><span>로그아웃</span></a>
+          				</li>
+        			</ul>
+      			</div>
+    		</div>
+
+    		<div class="sidebar-footer">
+				<a href = "https://github.com/Kim-EunKyu/SafeDoor/blob/master/README.md">Github</a>
+				<a href = "mailto:jongheon3651@gmail.com">Gmail</a>
+				<a href = "tel:010-1234-1234">전화하기</a>
+    		</div>
+  		</nav>
+
+	  	<main class="page-content">
+			<section id = "bg"></section>
+			<section>
+				<div>
+					<h1>DoorLock Control</h1>
+					<button id = "Open">Open</button>
+					<button id = "Close">Close</button>
+				</div>
+			</section>
+  		</main>
+	</div>
+  </body>
+</html>
