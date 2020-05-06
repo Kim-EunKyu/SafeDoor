@@ -42,7 +42,7 @@
 3. 웹페이지 실시간 확인   
 모바일 어플과 마찬가지로 웹을 통해서 방문자의 확인이나 도어락의 open/close를 할 수 있다.
 <div align="center">
-<img width="70%" src="/image/소공전 웹페이지.PNG"/>
+<img width="70%" src="/image/개선된웹페이지_원격도어락.PNG"/>
 </div><br>   
 
 4. 초인종을 눌렀을 때 어플로 푸시알람 보내기   
